@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Advanced Java Programming/Advanced Java Programming.iml" filepath="$PROJECT_DIR$/Advanced Java Programming/Advanced Java Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ITAcademy.iml" filepath="$PROJECT_DIR$/ITAcademy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vjezbe za akademiju/Vjezbe za akademiju.iml" filepath="$PROJECT_DIR$/Vjezbe za akademiju/Vjezbe za akademiju.iml" />
+    </modules>
+  </component>
+</project>
