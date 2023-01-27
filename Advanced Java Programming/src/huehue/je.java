@@ -1,3 +1,5 @@
+package huehue;
+
 public class je {
     public static void main(String[] args) {
         int height = 112;

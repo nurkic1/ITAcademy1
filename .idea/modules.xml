@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Advanced Java Programming/Advanced Java Programming.iml" filepath="$PROJECT_DIR$/Advanced Java Programming/Advanced Java Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core Java Programming/Core Java Programming.iml" filepath="$PROJECT_DIR$/Core Java Programming/Core Java Programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/ITAcademy.iml" filepath="$PROJECT_DIR$/ITAcademy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vjezbe za akademiju/Vjezbe za akademiju.iml" filepath="$PROJECT_DIR$/Vjezbe za akademiju/Vjezbe za akademiju.iml" />
     </modules>
